@@ -11,7 +11,7 @@ function domainName(domain) {
   }
   return hostSplit.join();
 }
-test
+
 
 ---------------------------
 domainName("http://google.com")
